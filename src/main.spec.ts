@@ -1,5 +1,5 @@
-import sayHello from './main'
+import sayHello from "./main";
 
-it('says hello', () => {
-  expect(sayHello()).toBe('Hello, world')
-})
+it("says hello", () => {
+  expect(sayHello("Bob")).toBe("Hello, Bob");
+});
