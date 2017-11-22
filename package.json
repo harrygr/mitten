@@ -21,6 +21,10 @@
     "test-only": "jest",
     "test:watch": "jest --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrygr/mitten"
+  },
   "author": "Harry G <harry@goodlord.co>",
   "license": "MIT",
   "release": {
