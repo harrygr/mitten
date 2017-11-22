@@ -22,5 +22,10 @@
     "test:watch": "jest --watch"
   },
   "author": "Harry G <harry@goodlord.co>",
-  "license": "MIT"
+  "license": "MIT",
+  "release": {
+    "verifyConditions": {
+      "path": "./verifyConditions.js"
+    }
+  }
 }
