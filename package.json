@@ -1,9 +1,10 @@
 {
-  "name": "mitten",
+  "name": "mitten-greeter",
   "engineStrict": true,
   "engines": {
     "node": ">= 6.9.0"
   },
+  "main": "dist/index.js",
   "devDependencies": {
     "@types/jest": "~20.0.4",
     "@types/node": "~6.0.85",
